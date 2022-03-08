@@ -16,7 +16,7 @@ You can click the Preview link to take a look at your changes.
 
 ### Estou aprendendo
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" height="40" /> <img <img src="https://img.icons8.com/color/48/000000/microsoft-sql-server.png" width = "40" heigth = "40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" height="40" /> <img src="https://img.icons8.com/color/48/000000/microsoft-sql-server.png" width = "40" heigth = "40"/>
 
 ### Contatos:
 

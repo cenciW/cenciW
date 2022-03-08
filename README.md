@@ -3,7 +3,7 @@
 - 📫 Meu e-mail é: ze.ccenci@gmail.com
 - 👀 Estudando ASP.NET core
 - 💞️ Faço estágio na empresa FMX Soluções em TI, como desenvolvedor ASP.NET core  
-- 
+ 
 
 <!---
 cenciW/cenciW is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -31,4 +31,5 @@ You can click the Preview link to take a look at your changes.
 <a href="https://github.com/cenciW"> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cenciW&layout=compact&langs_count=7&theme=dracula" /> <img height="180em" src="https://github-readme-stats.vercel.app/api?username=cenciW&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
   
-  ![Snake animation](https://github.com/seu-usuário-aqui/seu-usuário-aqui/blob/output/github-contribution-grid-snake.svg)
+ <!---![Snake animation](https://github.com/seu-usuário-aqui/seu-usuário-aqui/blob/output/github-contribution-grid-snake.svg)
+--->

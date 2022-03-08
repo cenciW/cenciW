@@ -16,7 +16,7 @@ You can click the Preview link to take a look at your changes.
 
 ### Estou aprendendo
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" width="40" height="40" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" height="40" /> <img <img src="https://img.icons8.com/color/48/000000/microsoft-sql-server.png" width = "40" heigth = "40"/>
 
 ### Contatos:
 
@@ -29,6 +29,6 @@ You can click the Preview link to take a look at your changes.
 
 <div>
 <a href="https://github.com/cenciW">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/cenciW/&layout=compact&langs_count=7&theme=dracula"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/cenciW&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cenciW&layout=compact&langs_count=7&theme=dracula"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?cenciW&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>

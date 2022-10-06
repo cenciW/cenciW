@@ -12,12 +12,13 @@ You can click the Preview link to take a look at your changes.
 --->
 
 ### Ferramentas e Tecnologias:
-
+<div align="center">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" height="50"/>
-
+</div>
 ### Estou aprendendo:
-
+<div align="center">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" width="50" height="50"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="50" height="50" /> <img src="https://img.icons8.com/color/48/000000/microsoft-sql-server.png" width = "50" heigth = "50"/> <img src="https://img.icons8.com/ios-filled/50/000000/unreal-engine.png"/>
+</div>
 
 ### Contatos:
 
@@ -28,7 +29,7 @@ You can click the Preview link to take a look at your changes.
 </div>
 
 
-<div>
+<div align="center">
 <a href="https://github.com/cenciW"> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cenciW&layout=compact&langs_count=7&theme=dracula" />  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=cenciW&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
   

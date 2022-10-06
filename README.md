@@ -15,7 +15,7 @@ You can click the Preview link to take a look at your changes.
 <div align="center">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" height="50"/>
 </div>
-### Estou aprendendo:
+###Estou aprendendo:
 <div align="center">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" width="50" height="50"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="50" height="50" /> <img src="https://img.icons8.com/color/48/000000/microsoft-sql-server.png" width = "50" heigth = "50"/> <img src="https://img.icons8.com/ios-filled/50/000000/unreal-engine.png"/>
 </div>

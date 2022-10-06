@@ -13,11 +13,11 @@ You can click the Preview link to take a look at your changes.
 
 ### Ferramentas e Tecnologias:
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" height="50"/>
 
 ### Estou aprendendo:
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" height="40" /> <img src="https://img.icons8.com/color/48/000000/microsoft-sql-server.png" width = "40" heigth = "40"/> <img src="https://img.icons8.com/ios-filled/50/000000/unreal-engine.png"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" width="50" height="50"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="50" height="50" /> <img src="https://img.icons8.com/color/48/000000/microsoft-sql-server.png" width = "50" heigth = "50"/> <img src="https://img.icons8.com/ios-filled/50/000000/unreal-engine.png"/>
 
 ### Contatos:
 

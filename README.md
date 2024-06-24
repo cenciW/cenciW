@@ -1,9 +1,8 @@
 - ### Olá, sou o José Augusto Cenci 👋
 - 👜 Atualmente trabalho com back-end;
 - 📫 Meu e-mail é: ze.ccenci@gmail.com;
-- 👀 Estudando ASP.NET core e Unreal Engine;
-- 💞️ Faço estágio na empresa FMX Soluções em TI, comecei como desenvolvedor back-end, utilizando ASP.Net Core.
-Atualmente estou como desenvolvedor unreal com realidade virtual. 
+- 👀 Estudando ASP.NET core, Unreal Engine, Flutter, Python, C++;
+
  
 
 <!---

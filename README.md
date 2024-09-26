@@ -1,7 +1,6 @@
 - ### Olá, sou o José Augusto Cenci 👋
-- 👜 Atualmente trabalho com back-end;
 - 📫 Meu e-mail é: ze.ccenci@gmail.com;
-- 👀 Estudando ASP.NET core, Unreal Engine, Flutter, Python, C++;
+- 👀 Tecnologias que já utilizei: ASP.NET core, Unreal Engine 4 e 5, Flutter, Python, C++, Java;
 
  
 

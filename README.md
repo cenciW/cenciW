@@ -2,7 +2,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A9FEF7&center=true&vCenter=true&width=940&lines=Ol%C3%A1%2C+sou+o+Jos%C3%A9+Augusto+Cenci+%F0%9F%91%8B;Estudante+de+Engenharia+da+Computa%C3%A7%C3%A3o;Desenvolvedor+Full+Stack+%F0%9F%9A%80;Apaixonado+por+Tecnologia+e+Inova%C3%A7%C3%A3o" alt="Typing SVG" />
 </div>
 
-<h3 align="center">🎓 Estudante de Engenharia da Computação | 💻 Desenvolvedor Proativo | 🌟 Focado em Soluções Inovadoras</h3>
+<h3 align="center">🎓 Estudante de Engenharia da Computação | 🌟 Focado em Soluções Inovadoras</h3>
 
 <div align="center">
   
@@ -145,7 +145,7 @@ You can click the Preview link to take a look at your changes.
 <table align="center">
 <tr>
 <td align="center" width="300px">
-<img src="https://img.icons8.com/color/80/scrum.png"/>
+<img src="https://img.icons8.com/fluency/80/sprint-iteration.png"/>
 <br><strong>🏃‍♂️ SCRUM</strong>
 <br><em>• Sprint Planning & Review</em>
 <br><em>• Daily Standups</em>
@@ -235,7 +235,7 @@ You can click the Preview link to take a look at your changes.
 
 ### 🔥 GitHub Streak
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=cenciW&theme=tokyonight&border_radius=10" alt="GitHub Streak"/>
+<img src="https://streak-stats.demolab.com/?user=cenciW&theme=tokyonight&border_radius=10" alt="GitHub Streak"/>
 
 ### 🏆 GitHub Trophies
 

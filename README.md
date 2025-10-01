@@ -17,7 +17,16 @@ You can click the Preview link to take a look at your changes.
 
 ### Estou aprendendo:
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" width="50" height="50"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="50" height="50" /> <img src="https://img.icons8.com/color/48/000000/microsoft-sql-server.png" width = "50" heigth = "50"/> <img src="https://img.icons8.com/ios-filled/50/000000/unreal-engine.png"/> <img src="https://img.icons8.com/color/48/000000/flutter.png" width = "50" heigth = "50"/> <img src="[https://img.icons8.com/color/48/000000/Java.png](https://img.icons8.com/?size=100&id=13679&format=png&color=000000)" width = "50" heigth = "50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" width="50" height="50"/> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="50" height="50"/> 
+<img src="https://img.icons8.com/color/48/000000/microsoft-sql-server.png" width="50" height="50"/> 
+<img src="https://img.icons8.com/ios-filled/50/000000/unreal-engine.png" width="50" height="50"/> 
+<img src="https://img.icons8.com/color/48/000000/flutter.png" width="50" height="50"/> 
+<img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" width="50" height="50"/> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50" height="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="50" height="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="50" height="50"/>
+
 
 ### LeetCode
 ![LeetCode Stats](https://leetcard.jacoblin.cool/cenciW?theme=dark&font=Roboto&ext=heatmap)

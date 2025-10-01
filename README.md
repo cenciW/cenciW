@@ -16,7 +16,17 @@ You can click the Preview link to take a look at your changes.
 
 
 ### Estou aprendendo:
-<div style="background-color:#f5f5f5; padding:20px; border-radius:10px; display:flex; justify-content:center; gap:20px;"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" width="100" height="100"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="100" height="100"/> <img src="https://img.icons8.com/color/48/000000/microsoft-sql-server.png" width="100" height="100"/> <img src="https://img.icons8.com/ios-filled/100/000000/unreal-engine.png" width="100" height="100"/> <img src="https://img.icons8.com/color/48/000000/flutter.png" width="100" height="100"/> <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" width="100" height="100"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="100" height="100"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-line.svg" width="100" height="100"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" width="100" height="100"/>
+
+<div style="background-color:#f5f5f5; padding:20px; border-radius:10px; display:flex; justify-content:center; gap:20px;">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" width="60" height="60"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="60" height="60"/>
+  <img src="https://img.icons8.com/color/48/000000/microsoft-sql-server.png" width="60" height="60"/>
+  <img src="https://img.icons8.com/ios-filled/50/000000/unreal-engine.png" width="60" height="60"/>
+  <img src="https://img.icons8.com/color/48/000000/flutter.png" width="60" height="60"/>
+  <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" width="60" height="60"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="60" height="60"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="60" height="60"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="60" height="60"/>
 </div>
 
 
